@@ -7,12 +7,6 @@
   
 
 
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem 0;
-}
 
 footer p {
   font-size: 1rem;
