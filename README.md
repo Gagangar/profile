@@ -1,4 +1,3 @@
-# profile
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,87 @@
   <meta name="description" content="Gagan Garg's Portfolio - Software Developer">
   <title>Gagan Garg - Software Developer</title>
   <link rel="stylesheet" href="styles.css">
+  <styles>* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 3rem;
+}
+
+header p {
+  font-size: 1.5rem;
+}
+
+.section {
+  padding: 2rem 0;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.project {
+  background-color: white;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.project p {
+  font-size: 1.2rem;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+footer p {
+  font-size: 1rem;
+}</styles>
 </head>
 <body>
   <header>
