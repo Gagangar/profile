@@ -5,19 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Gagan Garg's Portfolio - Software Developer">
   
-header p {
-  font-size: 1.5rem;
-}
-
-.section {
-  padding: 2rem 0;
-}
-
-h2 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  text-align: center;
-}
 
 ul {
   list-style: none;
