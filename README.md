@@ -9,7 +9,7 @@
 
 
 
-}</styles>
+</styles>
 </head>
 <body>
   <header>
