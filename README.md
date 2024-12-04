@@ -8,8 +8,7 @@
 
 
 
-footer p {
-  font-size: 1rem;
+
 }</styles>
 </head>
 <body>
