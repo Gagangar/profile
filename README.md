@@ -6,33 +6,6 @@
   <meta name="description" content="Gagan Garg's Portfolio - Software Developer">
   
 
-ul {
-  list-style: none;
-  padding: 0;
-  text-align: center;
-}
-
-ul li {
-  font-size: 1.2rem;
-  margin: 0.5rem 0;
-}
-
-.project {
-  background-color: white;
-  margin-bottom: 1.5rem;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.project h3 {
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
-}
-
-.project p {
-  font-size: 1.2rem;
-}
 
 footer {
   background-color: #333;
