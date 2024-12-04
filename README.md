@@ -4,37 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Gagan Garg's Portfolio - Software Developer">
-  <title>Gagan Garg - Software Developer</title>
-  <link rel="stylesheet" href="styles.css">
-  <styles>* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  color: #333;
-  background-color: #f4f4f4;
-}
-
-.container {
-  width: 80%;
-  margin: 0 auto;
-}
-
-header {
-  background-color: #4CAF50;
-  color: white;
-  padding: 2rem 0;
-  text-align: center;
-}
-
-header h1 {
-  font-size: 3rem;
-}
-
+  
 header p {
   font-size: 1.5rem;
 }
